@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a873c66330114c1488461a547fc15b50
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pikachu: {fileID: 7439651851780037942, guid: 3e692de7e467387499510642b92f1cf4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
